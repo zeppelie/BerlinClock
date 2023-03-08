@@ -1,0 +1,6 @@
+C:\Users\albertazzig\source\Kata\Berlin Clock\source\BerlinClock\bin\Debug\BerlinClock.dll
+C:\Users\albertazzig\source\Kata\Berlin Clock\source\BerlinClock\bin\Debug\BerlinClock.pdb
+C:\Users\albertazzig\source\Kata\Berlin Clock\source\BerlinClock\obj\Debug\BerlinClock.csproj.AssemblyReference.cache
+C:\Users\albertazzig\source\Kata\Berlin Clock\source\BerlinClock\obj\Debug\BerlinClock.csproj.CoreCompileInputs.cache
+C:\Users\albertazzig\source\Kata\Berlin Clock\source\BerlinClock\obj\Debug\BerlinClock.dll
+C:\Users\albertazzig\source\Kata\Berlin Clock\source\BerlinClock\obj\Debug\BerlinClock.pdb
